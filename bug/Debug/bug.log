@@ -1,0 +1,14 @@
+﻿  bug.c
+C:\Users\kimdo\source\repos\bug\bug.c(5,25): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+C:\Users\kimdo\source\repos\bug\bug.c(5,26): error C2065: '안녕하세요': 선언되지 않은 식별자입니다.
+C:\Users\kimdo\source\repos\bug\bug.c(5,26): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\kimdo\source\repos\bug\bug.c(5,9): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kimdo\source\repos\bug\bug.c(5,26): error C2146: 구문 오류: ')'이(가) 'n' 식별자 앞에 없습니다.
+C:\Users\kimdo\source\repos\bug\bug.c(5,27): error C2059: 구문 오류: ')'
+C:\Users\kimdo\source\repos\bug\bug.c(6,16): error C2065: '이번': 선언되지 않은 식별자입니다.
+C:\Users\kimdo\source\repos\bug\bug.c(6,16): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\kimdo\source\repos\bug\bug.c(6,9): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kimdo\source\repos\bug\bug.c(6,16): error C2146: 구문 오류: ')'이(가) '코드에는' 식별자 앞에 없습니다.
+C:\Users\kimdo\source\repos\bug\bug.c(6,59): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+C:\Users\kimdo\source\repos\bug\bug.c(6,61): error C2059: 구문 오류: ')'
+C:\Users\kimdo\source\repos\bug\bug.c(7,42): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
