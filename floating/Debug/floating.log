@@ -1,0 +1,3 @@
+﻿  floating.c
+C:\Users\kimdo\source\repos\floating\floating.c(6,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  floating.vcxproj -> C:\Users\kimdo\source\repos\floating\Debug\floating.exe

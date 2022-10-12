@@ -1,0 +1,5 @@
+﻿  underflow.c
+C:\Users\kimdo\source\repos\underflow\underflow.c(5,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kimdo\source\repos\underflow\underflow.c(6,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kimdo\source\repos\underflow\underflow.c(7,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  underflow.vcxproj -> C:\Users\kimdo\source\repos\underflow\Debug\underflow.exe
