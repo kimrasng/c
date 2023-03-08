@@ -1,11 +1,1 @@
-scanf_s {
-
-}
-
-
-
-scanf_s 차이
-
-quad_eq
-calc1
-오류
+.
